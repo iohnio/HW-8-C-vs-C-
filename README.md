@@ -19,5 +19,6 @@ TESTING METHODOLOGY:
 ADDITIONAL INFORMATION:
 the output should be the same in both C and C++:
 
+Result D = A + (3 * B) * C^T =
 90 70
 120 150
